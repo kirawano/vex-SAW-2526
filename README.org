@@ -1,4 +1,6 @@
 #+title: (TEAM NUMBER PENDING): Some Assembly Required
+** Codebase overview
+Built off lemlib w/ no modifications so far.
 
 ** Team Members
 [TBD]
